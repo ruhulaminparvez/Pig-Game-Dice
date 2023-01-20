@@ -8,4 +8,4 @@ Pig is a simple dice game first described in print by John Scarne in 1945. Playe
 3. DOM
 
 ## Live Demonstration
-👉 Live Preview : [Pig Game Dice](https://pigg-game.herokuapp.com/) 
+👉 Live Preview : [Pig Game Dice](https://pig-game-dicee.netlify.app/) 
